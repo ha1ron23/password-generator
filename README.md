@@ -12,7 +12,7 @@ A secure, CLI‑based password utility written in Python. It generates cryptogra
 
 ## Requirements
 - **Python 3.6+**
-- **[OPTIONAL]request (for pwned check)**
+- **[OPTIONAL] request (for pwned check)**
 
 ## Installation
 
